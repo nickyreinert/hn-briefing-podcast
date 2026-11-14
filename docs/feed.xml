@@ -6,6 +6,7 @@
     <language>en</language>
     <description>A short daily briefing: what is happening on Hacker News right now and what the comments add. Auto-generated (AI script, synthetic voice).</description>
     <itunes:author>HN Briefing</itunes:author>
+    <itunes:owner><itunes:name>HN Briefing</itunes:name><itunes:email>nickyreinert+spotify@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://podcast.nickyreinert.de/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
